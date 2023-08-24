@@ -270,7 +270,8 @@ ellenkezőjére is…?
 Nézzük meg! A tényadatok alapján; a hivatkozott vizsgálat ugyanis
 szerencsére közli a vakcinához kötött szívizomgyulladásos halálozások
 előfordulását életkoronként és nemenként lebontva is! (Ennek részleteit
-az 1. függelék tartalmazza.) Íme:
+az [1. függelék](#a-koreai-vizsgálat-halálos-kimenetelű-esetei)
+tartalmazza.) Íme:
 
 | Nem          | Életkor      | Oltottak száma \[M fő\] | Halálos szívizomgyulladás \[fő\] | Halálos szívizomgyulladás \[fő/M oltott\] |
 |:-------------|:-------------|------------------------:|---------------------------------:|:------------------------------------------|
@@ -319,7 +320,8 @@ nagyobb lenne. (A pontos értelmezés az, hogy ha ennél nagyobb lenne
 valójában, akkor már nagyon valószínűtlen lenne, hogy pusztán a véletlen
 ingadozás szeszélye folytán az történjen meg, hogy a 2,1 millió
 oltottból sincs egyetlen halálozás sem.) A konfidenciaintervallum pontos
-logikáját a 2. függelék nagyon részletesen elmagyarázza.
+logikáját a [2. függelék](#a-konfidenciaintervallum-fogalma) nagyon
+részletesen elmagyarázza.
 
 Ami hamar feltűnhet a táblázatból, hogy valójában nem tapasztaltuk azt,
 hogy a fiatal férfiak jobban érintettek lennének. A magyarázat nagyon
@@ -344,10 +346,11 @@ ismét feltételezzük, hogy az emberenként beadott dózisok száma és
 oltásfajták közti megoszlása ugyanaz mint Dél-Koreában. Ez szerencsére
 nem egy túl megszorító körülmény, mert a koreai oltások típusainak
 összetétele és a dózisok oltottankénti száma nem tér el nagyon a
-magyarétől, ráadásul így nem kell újabb feltételezéseket tennünk (a 3.
-függelék tartalmazza ennek részleteit). Mindenesetre az eredmények úgy
-értendőek, hogy a koreai – szerencsére tehát reális, és a magyartól nem
-nagyon eltérő – „oltásprofilt” alkalmazva itthon is:
+magyarétől, ráadásul így nem kell újabb feltételezéseket tennünk (a [3.
+függelék](#a-dél-koreai-és-magyar-oltottsági-adatok) tartalmazza ennek
+részleteit). Mindenesetre az eredmények úgy értendőek, hogy a koreai –
+szerencsére tehát reális, és a magyartól nem nagyon eltérő –
+„oltásprofilt” alkalmazva itthon is:
 
 | Nem          | Életkor      | Halálos szívizomgyulladás \[fő/M oltott\] | Magyar lakosok száma \[M fő\] | Halálos szívizomgyulladások várható száma teljes átoltottság esetén \[fő\] |
 |:-------------|:-------------|:------------------------------------------|------------------------------:|:---------------------------------------------------------------------------|
@@ -674,7 +677,7 @@ képviselik.
 
 ## Függelékek
 
-## A koreai vizsgálat halálos kimenetelű esetei
+### A koreai vizsgálat halálos kimenetelű esetei
 
 A koreai vizsgálat ugyan tartalmazza az összes halálos kimenetű eset
 részletes adatait, de nem egy helyen: a 3. táblázat tartalmazza a
@@ -710,7 +713,7 @@ jön ki az összesen 21 halálozás. Emiatt a széttagolás miatt, hogy
 
 A főszöveg számításai tehát ezen adatok alapján készültek.
 
-## A konfidenciaintervallum fogalma
+### A konfidenciaintervallum fogalma
 
 Egy barátunk azt állítja, hogy nem léteznek zöld szemű emberek. Mi ezzel
 nem értünk egyet, úgyhogy vitába szállunk. A kérdést nem irodalmi
@@ -931,7 +934,7 @@ konfidenciaintervallum, meg annak sem, hogy nagyon pontosak legyünk, és
 megbízhatósággal. A 95% tehát egy – nagy megbízhatóság irányába hajló –
 kompromisszum a kettő között.
 
-## A dél-koreai és magyar oltottsági adatok
+### A dél-koreai és magyar oltottsági adatok
 
 Dél-Korea 12 év fölötti lakosainak száma 2021-ben 46 908 096 fő, ebből
 2021. december 31-ig legalább 1 oltást kapott 44 276 704 fő (94,4%) a
