@@ -778,7 +778,7 @@ Természetesen *ugyanúgy* 99%, hiszen ha az embereket véletlenszerűen
 választottuk, akkor az, hogy az elsőnek nem zöld volt a szeme, az nem
 befolyásolja azt, hogy a második mekkora valószínűséggel nem zöld szemű
 – az marad ugyanúgy 99%, azaz 0,99. A 0,99-ed résznek a 0,99-ed része az
-magyarul $0{,}99 \cdot 0,\!99 = 0,\!9801$, azaz 98,01% – ennyi a
+magyarul $0{,}99 \cdot 0,99 = 0,\!9801$, azaz 98,01% – ennyi a
 valószínűsége annak, hogy kettő egyike sem zöld szemű, ha minden
 századik ember az. Ugyanígy továbbmenve annak a valószínűsége, hogy az
 első három egyike sem zöld szemű
