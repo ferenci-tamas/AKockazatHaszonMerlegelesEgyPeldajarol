@@ -778,19 +778,19 @@ Természetesen *ugyanúgy* 99%, hiszen ha az embereket véletlenszerűen
 választottuk, akkor az, hogy az elsőnek nem zöld volt a szeme, az nem
 befolyásolja azt, hogy a második mekkora valószínűséggel nem zöld szemű
 – az marad ugyanúgy 99%, azaz 0,99. A 0,99-ed résznek a 0,99-ed része az
-magyarul $0{,}99 \cdot 0,99 = 0,\!9801$, azaz 98,01% – ennyi a
+magyarul $0{,}99 \cdot 0{,}99 = 0{,}9801$, azaz 98,01% – ennyi a
 valószínűsége annak, hogy kettő egyike sem zöld szemű, ha minden
 századik ember az. Ugyanígy továbbmenve annak a valószínűsége, hogy az
 első három egyike sem zöld szemű
-$0\!,99 \cdot 0,\!99 \cdot 0,\!99 = 0,\!9703$, azaz 97,03%, és így
+$0{,}99 \cdot 0{,}99 \cdot 0{,}99 = 0{,}9703$, azaz 97,03%, és így
 tovább, annak valószínűsége tehát, hogy mind a 10 nem zöld szemű:
-$0\!,99^{10} = 0,\!9044$, azaz 90,44%.
+$0{,}99^{10} = 0{,}9044$, azaz 90,44%.
 
 Azaz, ha minden századik ember zöld szemű, akkor 90,44% valószínűséggel
 fordul elő, hogy a 10 véletlenül kiválasztott között nem lesz zöld szemű
 – hát ezért mondtuk azt, hogy „kényelmesen előfordulhat”! Ha azonban
 minden második zöld szemű, akkor ennek a valószínűsége
-$0\!,5^{10} = 0\!,00098$, azaz 0,098% – ezért mondtuk, hogy „nagyon
+$0{,}5^{10} = 0{,}00098$, azaz 0,098% – ezért mondtuk, hogy „nagyon
 valószínűtlen”!
 
 Fontos látni, hogy ezek szubjektív kifejezések: nyugodtan mondhatja
@@ -816,11 +816,11 @@ előfordulási gyakorisága a zöld szemnek, ami mellett *épp* 5% lesz annak
 a valószínűsége, hogy nincs egyetlen egy zöld szemű sem a 10 ember
 között? Ha $p$-vel jelöljük ezt az előfordulási gyakoriságot, $n$-nel a
 megfigyelt emberek számát (jelen esetben $n=10$), és $\alpha$-val ezt a
-valószínűséget (jelen esetben $\alpha = 0\!05$), akkor a fenti
+valószínűséget (jelen esetben $\alpha = 0{,}05$), akkor a fenti
 levezetést követve az $\left(1-p\right)^n = \alpha$ egyenletet kell
 megoldanunk $p$-re. Gyököt vonunk, majd átrendezünk, és így kapjuk, hogy
 $p = 1 - \sqrt[n]{\alpha}$. A mi konkrét esetünkben:
-$p = 1- \sqrt[10]{0,\!05} = 0,\!259$, azaz 25,9%. Ha ennyi, vagy ennél
+$p = 1- \sqrt[10]{0{,}05} = 0{,}259$, azaz 25,9%. Ha ennyi, vagy ennél
 kisebb az zöld szeműek előfordulási aránya, akkor a – fenti értelemben –
 „kényelmesen kijöhet”, hogy nincs egy sem a 10 megfigyelt ember között,
 ezért ezeket az értékeket elhisszük, ha azonban ennél gyakoribbak a zöld
@@ -841,9 +841,9 @@ $\alpha$-val, hanem $1-\alpha$-val fejezik ki, és azt mondják, hogy
 Érdemes megfigyelni, hogy ilyen módon tényleg megragadtuk azt a
 fogalmat, hogy adott eredmény mennyire „erős” bizonyítékot szolgáltat!
 Ha ugyanis 100-ból nem találunk egy zöld szeműt sem, akkor már
-$p = 1- \sqrt[100]{0,\!05} = 0,\!0295$, azaz 2,95% a felső korlát a zöld
+$p = 1- \sqrt[100]{0{,}05} = 0{,}0295$, azaz 2,95% a felső korlát a zöld
 szeműek arányára (95%-os megbízhatósági szinten), ha 1000-ből sincs egy
-sem, akkor már $p = 1- \sqrt[1000]{0,\!05} = 0,\!003$, azaz 0,3%. Soha
+sem, akkor már $p = 1- \sqrt[1000]{0{,}05} = 0{,}003$, azaz 0,3%. Soha
 nem tudjuk „kizárni”, hogy léteznének zöld szeműek, de minél több –
 véletlen, ne feledjük! – megfigyelésen keresztül nem találunk, annál
 jobban tudjuk limitálni az előfordulási gyakoriságukat.
