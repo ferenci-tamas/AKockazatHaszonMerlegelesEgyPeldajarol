@@ -529,11 +529,7 @@ védőhatása, vagy azt, hogy minden egyes 12 év feletti lakos minden egyes
 évben 2,5 oltást kap – egyik feltételezésnek sem sok köze van a
 valósághoz. (Természetesen figyelembe vehetnénk azt is, hogy időben
 hogyan gyengül az oltás adta védelem, de ez újabb feltételezéseket
-igényelne.) Még egyetlen megjegyzés: sok vita volt abból, én is
-[hosszasan írtam róla](https://github.com/tamas-ferenci/ExcessMortEUR),
-hogy a jelentett halálozás milyen viszonyban van a tényleges
-COVID-halálozással, de szerencsére itt ebbe nem kell belemenni, mert
-általában olyan hatalmas különbségek vannak, amik nem ezen fognak múlni.
+igényelne.)
 
 Ezzel lényegében megkaptuk a kockázat/haszon-mérleget: nincs más
 dolgunk, mint az általunk választott COVID-halálozást, mint az oltás
