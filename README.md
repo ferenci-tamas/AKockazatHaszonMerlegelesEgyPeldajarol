@@ -444,6 +444,27 @@ egy bátor huszárvágással: *mégis* nézzük a halottak tényleges számát,
 mennyien haltak volna meg – az tehát ennél csak nagyobb lehet. (Ez
 lényegében megint egy jókora tévedés az oltás kárára.)
 
+Egyetlen dologra figyelni kell. A halottak részletes életkori és nemi
+adatai a napi gyorsjelentésre vonatkozóan érhetőek el, viszont az joggal
+vethető fel, hogy ők meg nem biztos, hogy tényleg mind a járvány
+áldozatai (most félretéve [azt a
+kérdést](https://github.com/tamas-ferenci/ExcessMortEUR), hogy
+egyáltalán hogyan definiálható pontosan, hogy ki a járvány áldozata),
+hiszen őket nem a rendes halottvizsgálati eljárás szerint sorolták be
+halálokilag. Szerencsére 2020-ra és 2021-re vonatkozóan már [közölte a
+KSH](https://www.ksh.hu/stadat_files/nep/hu/nep0009.html) a rendes
+haláloki besorolási eredményeket is! Itt életkori és nemi lebontás
+nincs, tehát a gyorsjelentést sajnos nem tudjuk egyszerűen erre az
+adatforrásra lecserélni, viszont azt megtehetjük, hogy vesszük az itt
+leírt össz-számot, a napi jelentésekből adódó össz-számot, és a kettő
+egybevetésével egy egyszerű korrekciót teszünk. Számszerűsítve: a rendes
+haláloki besorolás szerint 2020-ban és 2021-ben összesen 33 819 áldozata
+volt a COVID-nak, a napi gyorsjelentések szerint viszont 39 186. Ez
+alapján azt mondhatjuk, hogy a valódi érték a napi gyorsjelentésekben
+szereplőnél 13,7%-kal kisebb; úgyhogy ennyivel fogjuk csökkenteni a napi
+gyorsjelentés számait, mégpedig minden kategóriában (életkori és nemi
+lebontás híján ez a legjobb amit tehetünk).
+
 Van azonban még egy (de most már tényleg utolsó!) probléma ezzel
 kapcsolatban. Milyen hosszú időszak halottainak számát vegyük? Ezt csak
 az oltási stratégiával összhangban lehet megválaszolni. Ha például az
@@ -474,30 +495,30 @@ ugyanezt úgy is, hogy leosztja egy évre:
 
 | Nem          | Életkor      | Kockázat \[fő\]    | COVID-halálozás \[fő\] | COVID-halálozás \[fő/év\] |
 |:-------------|:-------------|:-------------------|-----------------------:|--------------------------:|
-| Mindösszesen | Mindösszesen | 4.08 (2.52 - 6.23) |                  45865 |                   22041.8 |
-| Mindösszesen | 12-17        | 0.00 (0.00 - 1.05) |                      7 |                       3.4 |
-| Mindösszesen | 18-29        | 0.72 (0.20 - 1.83) |                    164 |                      78.8 |
-| Mindösszesen | 30-39        | 1.19 (0.44 - 2.59) |                    396 |                     190.3 |
-| Mindösszesen | 40-49        | 0.41 (0.05 - 1.48) |                   1442 |                     693.0 |
-| Mindösszesen | 50-59        | 0.00 (0.00 - 0.56) |                   3717 |                    1786.3 |
-| Mindösszesen | 60-69        | 0.91 (0.29 - 2.12) |                   9416 |                    4525.1 |
-| Mindösszesen | 70-          | 0.97 (0.26 - 2.47) |                  30713 |                   14760.1 |
-| Férfi        | Mindösszesen | 2.21 (1.14 - 3.86) |                  23277 |                   11186.5 |
-| Férfi        | 12-17        | 0.00 (0.00 - 0.96) |                      2 |                       1.0 |
-| Férfi        | 18-29        | 0.35 (0.04 - 1.26) |                     99 |                      47.6 |
-| Férfi        | 30-39        | 0.57 (0.12 - 1.67) |                    249 |                     119.7 |
-| Férfi        | 40-49        | 0.40 (0.05 - 1.46) |                    962 |                     462.3 |
-| Férfi        | 50-59        | 0.00 (0.00 - 0.54) |                   2460 |                    1182.2 |
-| Férfi        | 60-69        | 0.51 (0.10 - 1.48) |                   5908 |                    2839.3 |
-| Férfi        | 70-          | 0.43 (0.05 - 1.57) |                  13592 |                    6532.0 |
-| Nő           | Mindösszesen | 1.84 (0.84 - 3.49) |                  22588 |                   10855.3 |
-| Nő           | 12-17        | 0.00 (0.00 - 0.96) |                      5 |                       2.4 |
-| Nő           | 18-29        | 0.36 (0.04 - 1.31) |                     65 |                      31.2 |
-| Nő           | 30-39        | 0.61 (0.13 - 1.79) |                    147 |                      70.6 |
-| Nő           | 40-49        | 0.00 (0.00 - 0.76) |                    480 |                     230.7 |
-| Nő           | 50-59        | 0.00 (0.00 - 0.57) |                   1257 |                     604.1 |
-| Nő           | 60-69        | 0.41 (0.05 - 1.47) |                   3508 |                    1685.9 |
-| Nő           | 70-          | 0.55 (0.07 - 1.99) |                  17121 |                    8228.0 |
+| Mindösszesen | Mindösszesen | 4.08 (2.52 - 6.23) |                39583.2 |                   19022.9 |
+| Mindösszesen | 12-17        | 0.00 (0.00 - 1.05) |                    6.0 |                       2.9 |
+| Mindösszesen | 18-29        | 0.72 (0.20 - 1.83) |                  141.5 |                      68.0 |
+| Mindösszesen | 30-39        | 1.19 (0.44 - 2.59) |                  341.8 |                     164.2 |
+| Mindösszesen | 40-49        | 0.41 (0.05 - 1.48) |                 1244.5 |                     598.1 |
+| Mindösszesen | 50-59        | 0.00 (0.00 - 0.56) |                 3207.9 |                    1541.7 |
+| Mindösszesen | 60-69        | 0.91 (0.29 - 2.12) |                 8126.4 |                    3905.4 |
+| Mindösszesen | 70-          | 0.97 (0.26 - 2.47) |                26506.5 |                   12738.5 |
+| Férfi        | Mindösszesen | 2.21 (1.14 - 3.86) |                20088.9 |                    9654.3 |
+| Férfi        | 12-17        | 0.00 (0.00 - 0.96) |                    1.7 |                       0.8 |
+| Férfi        | 18-29        | 0.35 (0.04 - 1.26) |                   85.4 |                      41.1 |
+| Férfi        | 30-39        | 0.57 (0.12 - 1.67) |                  214.9 |                     103.3 |
+| Férfi        | 40-49        | 0.40 (0.05 - 1.46) |                  830.2 |                     399.0 |
+| Férfi        | 50-59        | 0.00 (0.00 - 0.54) |                 2123.1 |                    1020.3 |
+| Férfi        | 60-69        | 0.51 (0.10 - 1.48) |                 5098.8 |                    2450.4 |
+| Férfi        | 70-          | 0.43 (0.05 - 1.57) |                11730.4 |                    5637.4 |
+| Nő           | Mindösszesen | 1.84 (0.84 - 3.49) |                19494.3 |                    9368.6 |
+| Nő           | 12-17        | 0.00 (0.00 - 0.96) |                    4.3 |                       2.1 |
+| Nő           | 18-29        | 0.36 (0.04 - 1.31) |                   56.1 |                      27.0 |
+| Nő           | 30-39        | 0.61 (0.13 - 1.79) |                  126.9 |                      61.0 |
+| Nő           | 40-49        | 0.00 (0.00 - 0.76) |                  414.3 |                     199.1 |
+| Nő           | 50-59        | 0.00 (0.00 - 0.57) |                 1084.8 |                     521.4 |
+| Nő           | 60-69        | 0.41 (0.05 - 1.47) |                 3027.5 |                    1455.0 |
+| Nő           | 70-          | 0.55 (0.07 - 1.99) |                14776.1 |                    7101.1 |
 
 Az egy évre leosztott adat megint durva torzítás az oltás kárára, hiszen
 ne feledjük, hogy a kockázat rovatot olyan adatok alapján számoltuk,
@@ -525,22 +546,22 @@ Egyfelől visszaköszön, amit korábban is láttunk: ha minden 12 év
 felettit beoltottunk volna, akkor – a koreai adatok alapján – kb. 4
 halálozás lett volna szívizomgyulladás miatt. (Még egyszer: az oltás
 ellen csalva a számolásokban, tehát ez egy erős felső becslés.) A
-járvány miatt meg meghalt 45 ezer…
+járvány miatt meg meghalt 40 ezer…
 
 Viszont! Ha megnézzük az egyes csoportokat (a statisztikusok úgy szokták
 mondani: rétegeket), akkor azt látjuk, hogy ha csak egyetlen egy is, de
 egy van, ahol mégis cinkes a helyzet. És ez az érdekes: *annak ellenére
 is*, hogy összességében meg nagyon egyértelmű a mérleg! De mégis, a 12
-és 17 év közötti fiúknál, bár a mérleg még itt is az oltások felé billen
-ebben a számításban, de az abszolút különbség már elég kicsi. A léptékek
-itt már hasonlóak, legextrémebb számításban akár egyezőek, így a
-kockázat/haszon-mérleg kérdésessége a COVID-oltások kapcsán a fiatalabb
-korosztályokban jogosan felmerülő, vizsgálandó kérdés. (Ez még inkább
-igaz lehet a 12 év alatti korosztályra, bár ott még kevesebb
-információnk van.) Statisztikai értelemben véve épp az a probléma az
-ilyen rétegekben, hogy az oltás kockázata is nagyon kicsi és az oltás
-haszna is nagyon kicsi, és azt a legnehezebb empirikusan, tehát egy
-véges méretű minta alapján megmondani, hogy két nagyon kicsi számból
+és 17 év közötti fiúknál, bár a mérleg a legvalószínűbb számítás szerint
+még itt is az oltások felé billen, de az abszolút különbség már elég
+kicsi. A léptékek itt már hasonlóak, legextrémebb számításban akár össze
+is érnek, így a kockázat/haszon-mérleg kérdésessége a COVID-oltások
+kapcsán a fiatalabb korosztályokban jogosan felmerülő, vizsgálandó
+kérdés. (Ez még inkább igaz lehet a 12 év alatti korosztályra, bár ott
+még kevesebb információnk van.) Statisztikai értelemben véve épp az a
+probléma az ilyen rétegekben, hogy az oltás kockázata is nagyon kicsi és
+az oltás haszna is nagyon kicsi, és azt a legnehezebb empirikusan, tehát
+egy véges méretű minta alapján megmondani, hogy két nagyon kicsi számból
 melyik a kisebb. (Természetesen ne feledjük, hogy abban is az oltás
 ellen csalunk, hogy haszon alatt most csak a halál megelőzését
 tekintjük, noha pont ebben a korosztályban mondjuk a sokszervi
