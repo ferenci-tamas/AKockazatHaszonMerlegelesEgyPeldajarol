@@ -600,16 +600,37 @@ fakadóan az oltás haszna). Azt a táblázat is mutatja, hogy ez nem
 függhet más, további jellemzőktől is, például a társbetegségektől. (Ezt
 a problémát enyhíti, ha ezek a jellemzők összefüggnek az életkorral,
 ahogy például a társbetegségek erősen – ez esetben az életkor
-valamennyire ezek hatását is tükrözi.) Van azonban ennek még egy fontos
-jellemzője, amit a táblázat mutat: hogy nem feltétlenül állandó időben
-sem! Egy járvány lehet épp csendesebb, vagy tombolhat, ami rámutat még
-egy dologra, legyen ez a harmadik tanulság: a kockázat/haszon-mérleg nem
-egy statikus, kőbe vésett dolog, hanem dinamikus, azaz időben változik,
+valamennyire ezek hatását is tükrözi.) Van azonban még egy fontos
+jellemzője a haszonnak: hogy nem feltétlenül állandó időben sem! Egy
+járvány lehet épp csendesebb, vagy tombolhat, ami rámutat még egy
+dologra, legyen ez a harmadik tanulság: a kockázat/haszon-mérleg nem egy
+statikus, kőbe vésett dolog, hanem dinamikus, azaz időben változik,
 változhat. És ennek megfelelően folyamatosan felül kell vizsgálni:
 elképzelhető, hogy pontosan ugyanazon mellékhatás-kockázat (hiszen az
 nem függ a járvány intenzitásától) ide vagy oda dőlő mérleget jelent, a
 járvány súlyosságától függően – ezt is figyelembe kell venni a
 kockázat/haszon mérlegelésnél, nem csak a különböző rétegeket.
+
+Bár a fenti számítás végig így dolgozott, de rögzítsük külön is: a
+kockázat/haszon-mérleg szempontjából a hatások *abszolút* nagysága a
+fontos (mind a kockázat, mind a haszon oldalán). Hiszen ezeket tudjuk
+összehasonlítani: főt tudunk fővel egybevetni. Ezt csak azért említem
+külön, mert gyakran adnak meg, különösen a kockázatnál, relatív
+mutatókat is: „50%-kal emeli az oltás a kockázatot”. E mutatóknak is van
+értelmük ([jól
+átvihetőek](https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/v%C3%A9gpont-%C3%A9s-lem%C3%A9r%C3%A9se.html#mutat%C3%B3k-stabilit%C3%A1sa)
+más csoportokra), de az oltás megítéléshez abszolút mutatókra van
+szükségünk. Gondoljunk ugyanis bele, ha valami (adott idő alatt) 100
+alanyból 2-szer fordul elő és az oltás ezt 3-ra emeli, az is 50%-os
+növekedés, meg ha 1 millió alanyból 2-szer fordul elő és az oltás ezt
+3-ra emeli, az is. A relatív hatás *pontosan ugyanaz* a két esetben.
+Miközben az előbbi esetben 1 millió alanyt beoltva 10 ezer mellékhatást
+okozunk (30 ezer fog előfordulni 20 ezer helyett), az utóbbi esetben
+viszont egyetlen egyet! Ezért mondtam, hogy az oltások megítélésénél az
+abszolút hatás számít, nem a relatív. Simán lehet egy 10%-os növekedés
+nagyon aggasztó (ha egy eleve gyakori betegségnél történik) és egy
+1000%-os növekedés teljesen jelentéktelen (ha egy eleve nagyon ritka
+kórképnél történik).
 
 És még egyetlen megjegyzés a végére. Az oltás kockázatai között most
 egyedül a szívizomgyulladás következtében fellépő halálozást
@@ -625,7 +646,7 @@ mindegyikben *ugyanahhoz* a COVID-halálozáshoz viszonyítjuk a
 felvetésre két választ lehet adni. Az egyik, hogy a mellékhatás-figyelő
 rendszerek nem találtak ilyen kockázatot; erre persze lehet azt mondani,
 hogy valaki nem bízik abban, hogy ezek megtalálják ezeket a
-kockázatokat, de erre épp a szívizomgyulladás a biztató példa: azt is az
+kockázatokat, de erre épp a szívizomgyulladás az ellenpélda: azt is az
 ilyen rendszerek találták meg! Csakúgy mint a trombózis-kockázatot,
 csakúgy mint az anafilaxia-kockázatot. Ezeket mind a hivatalos
 mellékhatás-figyelő rendszerek vették észre, vizsgálták ki, és
@@ -654,24 +675,24 @@ körében 18 387-en a 630 ezer emberév alatt (29,3 halál per ezer
 emberév). Akkor tehát az oltás immár végképp bizonyítottan, minden
 ellenvetést megválaszoló módon is látványosan jót tesz?
 
-Sajnos azonban ez sem ilyen egyszerű! A probléma az, hogy az oltottak és
-az oltatlanok nem *csak* az oltottság tényében térnek el. Ráadásul
-mindkét irányban lehetnek különbségek: lehetnek szempontok, amik szerint
-az oltottak nagyobb halálozási kockázatúak (erre maga a cikk is ad
-adatot: a Pfizerrel oltottak több mint 10 évvel voltak idősebbek
-átlagosan mint az oltatlanok, 11,1%-uk volt cukorbeteg, míg az
-oltatlanoknak csak 4,2%-a stb.), de más szempontok szerint meg
-alacsonyabb kockázatúak (például egy majdnem halálos stroke vagy
-autóbaleset másnapján valószínűleg senkit nem fognak beoltani, ami
-fordítva nézve azt jelenti, hogy az oltottak csoportjában nem lesz
-olyan, aki nemrég szenvedett stroke-ot, vagy autóbalesetet). A kérdés
-tehát nem a megszámolás, hanem az értelmezés: ha olyan csoportokat
-hasonlítunk össze, amelyek nem *csak* az összehasonlítás tárgyában
-(jelen esetben az oltottságban) térnek el, akkor onnantól kezdve, ha
-találunk is különbséget a kimenetben (a halálozásban), nem fogjuk tudni,
-hogy az mi miatt van: az oltottság miatt, az oltottsággal együtt járó
-egyéb eltérések miatt, vagy ezek valamilyen keveréke miatt? Ezt a
-jelenséget szokták magyarban is gyakran használt angol szóval
+Sajnos ez sem ilyen egyszerű! A probléma az, hogy az oltottak és az
+oltatlanok nem *csak* az oltottság tényében térnek el. Ráadásul mindkét
+irányban lehetnek különbségek: lehetnek szempontok, amik szerint az
+oltottak nagyobb halálozási kockázatúak (erre maga a cikk is ad adatot:
+a Pfizerrel oltottak több mint 10 évvel voltak idősebbek átlagosan mint
+az oltatlanok, 11,1%-uk volt cukorbeteg, míg az oltatlanoknak csak
+4,2%-a stb.), de más szempontok szerint meg alacsonyabb kockázatúak
+(például egy majdnem halálos stroke vagy autóbaleset másnapján
+valószínűleg senkit nem fognak beoltani, ami fordítva nézve azt jelenti,
+hogy az oltottak csoportjában nem lesz olyan, aki nemrég szenvedett
+stroke-ot, vagy autóbalesetet). A kérdés tehát nem a megszámolás, hanem
+az értelmezés: ha olyan csoportokat hasonlítunk össze, amelyek nem
+*csak* az összehasonlítás tárgyában (jelen esetben az oltottságban)
+térnek el, akkor onnantól kezdve, ha találunk is különbséget a
+kimenetben (a halálozásban), nem fogjuk tudni, hogy az mi miatt van: az
+oltottság miatt, az oltottsággal együtt járó egyéb eltérések miatt, vagy
+ezek valamilyen keveréke miatt? Ezt a jelenséget szokták magyarban is
+gyakran használt angol szóval
 [confounding-nak](https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/)
 nevezni. Elvileg akár még az is lehet, hogy az az oltottak halálozása
 ugyan kisebb, de ettől még az oltás veszélyes – ha az oltottak
