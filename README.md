@@ -540,13 +540,16 @@ is, hogy időben hogyan gyengül az oltás adta védelem, de ez újabb
 feltételezéseket igényelne.)
 
 Ezzel lényegében megkaptuk a kockázat/haszon-mérleget: nincs más
-dolgunk, mint összevetni az oszlopokat.
+dolgunk, mint a COVID-halálozások számát beszorozni az oltás
+hatásosságával, ez lesz a haszon, majd ezt összevetni az
+oltás-kockázattal. Mivel a számítás során az oltás hasznát mindenhol
+inkább alul-, a kockázatát meg felülbecsültük, így ez – ahogy
+szándékosan terveztük is – egy vélhetően igen óvatos mérleg.
 
 Egyfelől visszaköszön, amit korábban is láttunk: ha minden 12 év
 felettit beoltottunk volna, akkor – a koreai adatok alapján – kb. 4
-halálozás lett volna az országban szívizomgyulladás miatt. (Még egyszer:
-mindenhol az oltás ellen csalva a számolásokban, tehát ez egy erős felső
-becslés.) A járvány miatt meg meghalt 40 ezer…
+halálozás lett volna az országban szívizomgyulladás miatt. A járvány
+miatt meg meghalt 40 ezer…
 
 Viszont! Ha megnézzük az egyes csoportokat (a statisztikusok úgy szokták
 mondani: rétegeket), akkor azt látjuk, hogy ha csak egyetlen egy is, de
