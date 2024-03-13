@@ -161,12 +161,7 @@ az oltás kárára téved.
 szívizomgyulladásos esetek előfordulását az oltás óta eltelt idő
 függvényében:
 
-<figure>
-<img src="ehad339f1.jpeg"
-alt="Szívizomgyulladásos esetek száma adott számú nappal az oltás beadása után" />
-<figcaption aria-hidden="true">Szívizomgyulladásos esetek száma adott
-számú nappal az oltás beadása után</figcaption>
-</figure>
+![](ehad339f1.jpeg)
 
 Jól látszik az oltás által okozott csúcs, de az is, hogy utána nem megy
 le nullába a görbe – nagyjából a 20. nap környékén stabilizálódik, és
@@ -502,32 +497,32 @@ szinte végtelen opció van. Éppen ezért az alábbi táblázat két szélső
 lehetőséget mutat: feltünteti az összes halott számát (2020-2022-ből),
 és ugyanezt úgy is, hogy leosztja egy évre:
 
-| Nem          | Életkor      | Kockázat \[fő\]    | COVID-halálozás \[fő\] | COVID-halálozás \[fő/év\] |
-|:-------------|:-------------|:-------------------|-----------------------:|--------------------------:|
-| Mindösszesen | Mindösszesen | 4.08 (2.52 - 6.23) |                  41491 |                   13826.8 |
-| Mindösszesen | 12-17        | 0.00 (0.00 - 1.05) |                      6 |                       2.0 |
-| Mindösszesen | 18-29        | 0.72 (0.20 - 1.83) |                    161 |                      53.7 |
-| Mindösszesen | 30-39        | 1.19 (0.44 - 2.59) |                    412 |                     137.3 |
-| Mindösszesen | 40-49        | 0.41 (0.05 - 1.48) |                   1375 |                     458.2 |
-| Mindösszesen | 50-59        | 0.00 (0.00 - 0.56) |                   3383 |                    1127.4 |
-| Mindösszesen | 60-69        | 0.91 (0.29 - 2.12) |                   8499 |                    2832.3 |
-| Mindösszesen | 70-          | 0.97 (0.26 - 2.47) |                  27655 |                    9216.0 |
-| Férfi        | Mindösszesen | 2.21 (1.14 - 3.86) |                  21256 |                    7083.5 |
-| Férfi        | 12-17        | 0.00 (0.00 - 0.96) |                      2 |                       0.7 |
-| Férfi        | 18-29        | 0.35 (0.04 - 1.26) |                     95 |                      31.7 |
-| Férfi        | 30-39        | 0.57 (0.12 - 1.67) |                    255 |                      85.0 |
-| Férfi        | 40-49        | 0.40 (0.05 - 1.46) |                    943 |                     314.3 |
-| Férfi        | 50-59        | 0.00 (0.00 - 0.54) |                   2259 |                     752.8 |
-| Férfi        | 60-69        | 0.51 (0.10 - 1.48) |                   5312 |                    1770.2 |
-| Férfi        | 70-          | 0.43 (0.05 - 1.57) |                  12390 |                    4129.0 |
-| Nő           | Mindösszesen | 1.84 (0.84 - 3.49) |                  20235 |                    6743.3 |
-| Nő           | 12-17        | 0.00 (0.00 - 0.96) |                      4 |                       1.3 |
-| Nő           | 18-29        | 0.36 (0.04 - 1.31) |                     66 |                      22.0 |
-| Nő           | 30-39        | 0.61 (0.13 - 1.79) |                    157 |                      52.3 |
-| Nő           | 40-49        | 0.00 (0.00 - 0.76) |                    432 |                     144.0 |
-| Nő           | 50-59        | 0.00 (0.00 - 0.57) |                   1124 |                     374.6 |
-| Nő           | 60-69        | 0.41 (0.05 - 1.47) |                   3187 |                    1062.1 |
-| Nő           | 70-          | 0.55 (0.07 - 1.99) |                  15265 |                    5087.0 |
+| Nem          | Életkor      | Az oltás kockázata \[fő\] | COVID-halálozás \[fő\] | COVID-halálozás \[fő/év\] |
+|:-------------|:-------------|:--------------------------|-----------------------:|--------------------------:|
+| Mindösszesen | Mindösszesen | 4.08 (2.52 - 6.23)        |                  41491 |                   13826.8 |
+| Mindösszesen | 12-17        | 0.00 (0.00 - 1.05)        |                      6 |                       2.0 |
+| Mindösszesen | 18-29        | 0.72 (0.20 - 1.83)        |                    161 |                      53.7 |
+| Mindösszesen | 30-39        | 1.19 (0.44 - 2.59)        |                    412 |                     137.3 |
+| Mindösszesen | 40-49        | 0.41 (0.05 - 1.48)        |                   1375 |                     458.2 |
+| Mindösszesen | 50-59        | 0.00 (0.00 - 0.56)        |                   3383 |                    1127.4 |
+| Mindösszesen | 60-69        | 0.91 (0.29 - 2.12)        |                   8499 |                    2832.3 |
+| Mindösszesen | 70-          | 0.97 (0.26 - 2.47)        |                  27655 |                    9216.0 |
+| Férfi        | Mindösszesen | 2.21 (1.14 - 3.86)        |                  21256 |                    7083.5 |
+| Férfi        | 12-17        | 0.00 (0.00 - 0.96)        |                      2 |                       0.7 |
+| Férfi        | 18-29        | 0.35 (0.04 - 1.26)        |                     95 |                      31.7 |
+| Férfi        | 30-39        | 0.57 (0.12 - 1.67)        |                    255 |                      85.0 |
+| Férfi        | 40-49        | 0.40 (0.05 - 1.46)        |                    943 |                     314.3 |
+| Férfi        | 50-59        | 0.00 (0.00 - 0.54)        |                   2259 |                     752.8 |
+| Férfi        | 60-69        | 0.51 (0.10 - 1.48)        |                   5312 |                    1770.2 |
+| Férfi        | 70-          | 0.43 (0.05 - 1.57)        |                  12390 |                    4129.0 |
+| Nő           | Mindösszesen | 1.84 (0.84 - 3.49)        |                  20235 |                    6743.3 |
+| Nő           | 12-17        | 0.00 (0.00 - 0.96)        |                      4 |                       1.3 |
+| Nő           | 18-29        | 0.36 (0.04 - 1.31)        |                     66 |                      22.0 |
+| Nő           | 30-39        | 0.61 (0.13 - 1.79)        |                    157 |                      52.3 |
+| Nő           | 40-49        | 0.00 (0.00 - 0.76)        |                    432 |                     144.0 |
+| Nő           | 50-59        | 0.00 (0.00 - 0.57)        |                   1124 |                     374.6 |
+| Nő           | 60-69        | 0.41 (0.05 - 1.47)        |                   3187 |                    1062.1 |
+| Nő           | 70-          | 0.55 (0.07 - 1.99)        |                  15265 |                    5087.0 |
 
 (Forrás: Központi Statisztikai Hivatal (www.ksh.hu)
 Covid19_halálozás_korcsoportos_2020_2022 nevű, egyedi kérésre

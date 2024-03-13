@@ -54,7 +54,7 @@ Ez utóbbi megjegyzésre talán érdemes kicsit részletesebben is kitérni. Mir
 
 Érdemes megnézni az alábbi ábrát a cikkből, ami mutatja a szívizomgyulladásos esetek előfordulását az oltás óta eltelt idő függvényében:
 
-![Szívizomgyulladásos esetek száma adott számú nappal az oltás beadása után](ehad339f1.jpeg)
+![](ehad339f1.jpeg)
 
 Jól látszik az oltás által okozott csúcs, de az is, hogy utána nem megy le nullába a görbe -- nagyjából a 20. nap környékén stabilizálódik, és onnantól vízszinteshez közeli módon fut tovább. Hogy lehet ez? Miért nem megy le ez nullába? Kérdezhetné valaki, de gondoljuk meg: még jó, hogy nem megy le nullába, az azt jelentené, hogy a beadott oltás örök időkre megvéd a szívizomgyulladástól... (Ugye a kutya ott van elásva, hogy az ábrán az *összes* szívizomgyulladás száma van, egyedül a más kórokozósakat levonva, nem az oltás által *okozott* szívizomgyulladások száma.) Ha a 20. nap utáni adatokra képzeletben húzunk egy vízszintes egyenest, akkor jó közelítéssel pont a háttérrátát kapjuk! Ez az, amit le kellett volna vonni, hiszen ezek a nem az oltás által okozott esetek -- de ebben a kutatásban ezt nem tették meg, így ezeket az eseteket is elszámoljuk az oltás kontójára. (Az külön érdekes, hogy természetesen ez a vízszintes vonal az egész görbén ott van. Érdemes belegondolni, például az oltás utáni 4. napon is lesznek olyan esetek, amiket nem az oltás okoz, miközben itt semmi kérdés nincs, hogy az oltás okoz ilyet, és a 4. napon aztán pláne egyértelmű ez -- de a képzeletbeli egyenes alatti esetek *még ott is* a háttérráta részei!) A dologban egyébként az a szép, hogy ha felcsapjuk az [irodalmat](https://academic.oup.com/jid/article/225/9/1569/6484617), akkor azt látjuk, hogy a szívizomgyulladás háttérrátája nagyjából 1-2 per 100 ezer emberév ([más országok adatai szerint](https://www.globalvaccinedatanetwork.org/Data-Dashboards/Background-Rates-Dashboards/GVDN-AESI-Background-rates-2015%E2%80%932020) még ennél is több), amit átszámolva, 42 napon belül 10 millió oltásonként kb. 10-20 ilyet várunk. Itt van 104 millió oltás, ez tehát legkevesebb 100 eset a 42 nap alatt, azaz kétnaponként -- mert a fenti ábrán minden oszlop két nap -- nagyjából 5 eset. És nézzük meg: elég jó közelítéssel tényleg ennyi az, ahol a képzeletben behúzott vízszintes vonalunk húzódik! A koreai vizsgálatban egyébként 480 szívizomgyulladásos eset volt, ez a fenti ábrán az oszlopok összege, tehát a minimum 100, oltás utáni, de nem oltás által okozott eset egyáltalán nem hanyagolható el -- és ez az, amit nem vontak le!
 
@@ -154,7 +154,7 @@ knitr::kable(KoreanData[, .(Sex, Age,
                                    format(round(lci*HunPopulation, 2), nsmall = 2), " - ",
                                    format(round(uci*HunPopulation, 2), nsmall = 2), ")"),
                             N, N/(366 + 365 + 365)*365.241)],
-             col.names = c("Nem", "Életkor", "Kockázat [fő]", "COVID-halálozás [fő]",
+             col.names = c("Nem", "Életkor", "Az oltás kockázata [fő]", "COVID-halálozás [fő]",
                            "COVID-halálozás [fő/év]"),
              digits = c(0, 0, 0, 1, 1))
 ```
