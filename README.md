@@ -227,7 +227,13 @@ hiszen – mint épp az imént láttuk – már 42 napnál is a nem oltás adta
 szívizomgyulladások dominálnak, képzelhetjük mi történne két év alatt.
 Ilyenre csak összehasonlító jellegű vizsgálattal lehet válaszolni, igaz,
 azoknak meg megvannak a maguk nehézségei, erre még az írásom legvégén
-röviden kitérek.)
+röviden kitérek. Itt most csak annyit jegyzek meg, hogy ha a 42 napot
+megnövelnénk, azzal valójában nem javítanánk a helyzeten, hanem
+rontanánk: mint látjuk, már 42 napnál is a háttérráta dominál, amiben
+nincs különbség oltottak és oltatlanok között, tehát hosszabb
+intervallummal csak még jobban felhígítanánk az oltásbiztonsági jelet,
+azaz a kiugrást a görbe elején egy irreleváns zajjal, így *még nehezebb*
+lenne észrevenni, hogy az oltás okoz ilyen mellékhatást.)
 
 Mindezek után nézzük az eredményeket! Egyetlen mondatban összefoglalva:
 44,3 millió ember összesen 103,8 millió dózissal (túlnyomórészt Pfizer,
@@ -439,21 +445,25 @@ meglepő](https://github.com/tamas-ferenci/GondolatokAJarvanyugyiAdatokKozlesero
 szerencsére pont ebben, tehát, hogy az oltás mennyire okoz
 szívizomgyulladást, nem nagyon várható, hogy hatalmas különbségek
 legyenek az országok között (persze, például genetikai okokból, nem is
-teljesen kizárható). Csakhogy egy gond is van ezzel a megközelítéssel:
-az, hogy menet közben elkezdtünk oltani az országban. Ebből fakadóan a
-tényleges halálozási számainkban nem csak azok a – variánsok,
-gyógyszerek, lezárások stb. miatti – ingadozások lesznek benne, amikre
-tudatosan azt mondtuk, hogy legyenek is, hanem az oltás miattiak is.
-(Pláne, hogy az elhunytak oltottsági státuszáról nincs is adatunk.) De
-itt most éljünk egy bátor huszárvágással: *mégis* nézzük a halottak
-tényleges számát, *de* azzal az, ebből közvetlenül fakadó, igen fontos
-megjegyzéssel, hogy ez innentől egy *abszolút alsó korlát* a haszonra:
-ennyien még – részbeni – oltással *együtt is* meghaltak, miközben nekünk
-az kell, hogy oltás *nélkül* mennyien haltak volna meg – az tehát ennél
-csak nagyobb lehet. (Ez lényegében megint egy jókora tévedés az oltás
-kárára.)
+teljesen kizárható).
 
-Egyetlen dologra figyelni kell. A halottak részletes életkori és nemi
+Csakhogy egy gond is van ezzel a megközelítéssel: az, hogy menet közben
+elkezdtünk oltani az országban. Ebből fakadóan a tényleges halálozási
+számainkban nem csak azok a – variánsok, gyógyszerek, lezárások stb.
+miatti – ingadozások lesznek benne, amikre tudatosan azt mondtuk, hogy
+legyenek is, hanem az oltás is. De itt most éljünk egy bátor
+huszárvágással: *mégis* nézzük a halottak tényleges számát, *de* azzal
+az, ebből közvetlenül fakadó és igen fontos megjegyzéssel, hogy ez
+innentől egy *abszolút alsó korlát* a haszonra: ennyien még – részbeni –
+oltással *együtt is* meghaltak, miközben nekünk az kell, hogy oltás
+*nélkül* mennyien haltak volna meg – az tehát ennél csak nagyobb lehet.
+Ez lényegében megint egy jókora tévedés az oltás kárára. És ha végképp
+teljesen biztosan az oltásra nézve legrosszabb szcenáriót akarjuk
+előállítani, márpedig most ezt akarjuk, akkor beszorozhatjuk még ezt a
+számot is az oltás hatásosságával, mondván, hogy ezzel még az oltás nem
+tökéletes mivoltát is figyelembe vettük.
+
+Egyetlen dologra kell vigyázni. A halottak részletes életkori és nemi
 adatai a napi gyorsjelentésben érhetőek el, viszont az joggal vethető
 fel, hogy ők meg nem biztos, hogy tényleg mind a járvány áldozatai (most
 félretéve [azt a
@@ -481,48 +491,49 @@ feltételezhetjük, hogy a megfertőződés kockázata közel 100%, és így a
 haszon számításához egyszerűen a halálozási arányt kell alapul venni.
 Vagy, másik végletként, ha az oltás egy évre védelmet nyújt, de utána
 megszűnik a védettség, akkor egy évnyi halálozási adatot kell alapul
-venni (nem 100% megfertőződéssel tehát). Az a gond, hogy a valóságban a
-COVID-oltás adta védelem a kettő között van: nem tart örökké, de nem is
-szűnik meg nyomtalanul egy év után. Aztán ott van az a probléma, hogy ez
-részben oltási stratégia függvénye is: elképzelhető, hogy azt tervezzük,
-hogy beadunk három oltást, és utána abbahagyjuk a programot (ez is lehet
-racionális: így már mindenkinek lesz egy alapimmunitása, kevésbé baj, ha
-végigmegy a járvány a populációt), de talán életszerűbb, ha azt vesszük,
-hogy megkapja mindenki a három oltást, és utána évente, ősszel egy
-emlékeztető oltást, az influenzához hasonlóan. Vagy esetleg ezt tenni,
-de csak kockázati csoportok esetén?
+venni (nem feltételezve tehát, hogy a lakosság 100%-a megfertőződik). Az
+a gond, hogy a valóságban a COVID-oltás adta védelem a kettő között van:
+nem tart örökké, de nem is szűnik meg nyomtalanul egy év után. Aztán ott
+van az a probléma, hogy ez részben az oltási stratégia függvénye is:
+elképzelhető, hogy azt tervezzük, hogy beadunk három oltást, és utána
+abbahagyjuk a programot (ez is lehet racionális: így már mindenkinek
+lesz egy alapimmunitása, kevésbé baj, ha végigmegy a járvány a
+populációt), de talán életszerűbb, ha azt vesszük, hogy megkapja
+mindenki a három oltást, és utána évente, ősszel egy emlékeztető oltást,
+az influenzához hasonlóan. Vagy esetleg ezt tenni, de csak kockázati
+csoportok esetén?
 
 Talán a fenti is érzékelteti, hogy itt nagyon szétfolynak a lehetőségek,
 szinte végtelen opció van. Éppen ezért az alábbi táblázat két szélső
 lehetőséget mutat: feltünteti az összes halott számát (2020-2022-ből),
 és ugyanezt úgy is, hogy leosztja egy évre:
 
-| Nem          | Életkor      | Az oltás kockázata \[fő\] | COVID-halálozás \[fő\] | COVID-halálozás \[fő/év\] |
-|:-------------|:-------------|:--------------------------|-----------------------:|--------------------------:|
-| Mindösszesen | Mindösszesen | 4.08 (2.52 - 6.23)        |                  41491 |                   13826.8 |
-| Mindösszesen | 12-17        | 0.00 (0.00 - 1.05)        |                      6 |                       2.0 |
-| Mindösszesen | 18-29        | 0.72 (0.20 - 1.83)        |                    161 |                      53.7 |
-| Mindösszesen | 30-39        | 1.19 (0.44 - 2.59)        |                    412 |                     137.3 |
-| Mindösszesen | 40-49        | 0.41 (0.05 - 1.48)        |                   1375 |                     458.2 |
-| Mindösszesen | 50-59        | 0.00 (0.00 - 0.56)        |                   3383 |                    1127.4 |
-| Mindösszesen | 60-69        | 0.91 (0.29 - 2.12)        |                   8499 |                    2832.3 |
-| Mindösszesen | 70-          | 0.97 (0.26 - 2.47)        |                  27655 |                    9216.0 |
-| Férfi        | Mindösszesen | 2.21 (1.14 - 3.86)        |                  21256 |                    7083.5 |
-| Férfi        | 12-17        | 0.00 (0.00 - 0.96)        |                      2 |                       0.7 |
-| Férfi        | 18-29        | 0.35 (0.04 - 1.26)        |                     95 |                      31.7 |
-| Férfi        | 30-39        | 0.57 (0.12 - 1.67)        |                    255 |                      85.0 |
-| Férfi        | 40-49        | 0.40 (0.05 - 1.46)        |                    943 |                     314.3 |
-| Férfi        | 50-59        | 0.00 (0.00 - 0.54)        |                   2259 |                     752.8 |
-| Férfi        | 60-69        | 0.51 (0.10 - 1.48)        |                   5312 |                    1770.2 |
-| Férfi        | 70-          | 0.43 (0.05 - 1.57)        |                  12390 |                    4129.0 |
-| Nő           | Mindösszesen | 1.84 (0.84 - 3.49)        |                  20235 |                    6743.3 |
-| Nő           | 12-17        | 0.00 (0.00 - 0.96)        |                      4 |                       1.3 |
-| Nő           | 18-29        | 0.36 (0.04 - 1.31)        |                     66 |                      22.0 |
-| Nő           | 30-39        | 0.61 (0.13 - 1.79)        |                    157 |                      52.3 |
-| Nő           | 40-49        | 0.00 (0.00 - 0.76)        |                    432 |                     144.0 |
-| Nő           | 50-59        | 0.00 (0.00 - 0.57)        |                   1124 |                     374.6 |
-| Nő           | 60-69        | 0.41 (0.05 - 1.47)        |                   3187 |                    1062.1 |
-| Nő           | 70-          | 0.55 (0.07 - 1.99)        |                  15265 |                    5087.0 |
+| Nem          | Életkor      | COVID-halálozás \[fő\] | COVID-halálozás \[fő/év\] |
+|:-------------|:-------------|-----------------------:|--------------------------:|
+| Mindösszesen | Mindösszesen |                  41491 |                   13826.8 |
+| Mindösszesen | 12-17        |                      6 |                       2.0 |
+| Mindösszesen | 18-29        |                    161 |                      53.7 |
+| Mindösszesen | 30-39        |                    412 |                     137.3 |
+| Mindösszesen | 40-49        |                   1375 |                     458.2 |
+| Mindösszesen | 50-59        |                   3383 |                    1127.4 |
+| Mindösszesen | 60-69        |                   8499 |                    2832.3 |
+| Mindösszesen | 70-          |                  27655 |                    9216.0 |
+| Férfi        | Mindösszesen |                  21256 |                    7083.5 |
+| Férfi        | 12-17        |                      2 |                       0.7 |
+| Férfi        | 18-29        |                     95 |                      31.7 |
+| Férfi        | 30-39        |                    255 |                      85.0 |
+| Férfi        | 40-49        |                    943 |                     314.3 |
+| Férfi        | 50-59        |                   2259 |                     752.8 |
+| Férfi        | 60-69        |                   5312 |                    1770.2 |
+| Férfi        | 70-          |                  12390 |                    4129.0 |
+| Nő           | Mindösszesen |                  20235 |                    6743.3 |
+| Nő           | 12-17        |                      4 |                       1.3 |
+| Nő           | 18-29        |                     66 |                      22.0 |
+| Nő           | 30-39        |                    157 |                      52.3 |
+| Nő           | 40-49        |                    432 |                     144.0 |
+| Nő           | 50-59        |                   1124 |                     374.6 |
+| Nő           | 60-69        |                   3187 |                    1062.1 |
+| Nő           | 70-          |                  15265 |                    5087.0 |
 
 (Forrás: Központi Statisztikai Hivatal (www.ksh.hu)
 Covid19_halálozás_korcsoportos_2020_2022 nevű, egyedi kérésre
@@ -540,35 +551,68 @@ is, hogy időben hogyan gyengül az oltás adta védelem, de ez újabb
 feltételezéseket igényelne.)
 
 Ezzel lényegében megkaptuk a kockázat/haszon-mérleget: nincs más
-dolgunk, mint a COVID-halálozások számát beszorozni az oltás
-hatásosságával, ez lesz a haszon, majd ezt összevetni az
-oltás-kockázattal. Mivel a számítás során az oltás hasznát mindenhol
-inkább alul-, a kockázatát meg felülbecsültük, így ez – ahogy
-szándékosan terveztük is – egy vélhetően igen óvatos mérleg.
+dolgunk, mint a COVID-halálozások számát (a „legrosszabb eset” típusú
+számítás miatt az egy évnyit) beszorozni az oltás hatásosságával (mivel
+itt most egy évről van szó, így használjunk 70%-ot, az is inkább
+alábecslés – ne feledjük, halálozás elleni védettségről van szó), ez
+lesz a haszon, majd ezt összevetni a fent kiszámolt kockázattal. Mivel a
+számítás során az oltás hasznát mindenhol inkább alul-, a kockázatát meg
+felülbecsültük, így ez – ahogy szándékosan terveztük is – egy vélhetően
+igen óvatos mérleg; ezt tükrözi a táblázat „maximális kockázat” és
+„minimális haszon” felirata. Íme a végeredményünk:
+
+| Nem          | Életkor      | Maximális kockázat \[fő\] | Minimális haszon \[fő\] |
+|:-------------|:-------------|:--------------------------|------------------------:|
+| Mindösszesen | Mindösszesen | 4.08 (2.52 - 6.23)        |                  9678.8 |
+| Mindösszesen | 12-17        | 0.00 (0.00 - 1.05)        |                     1.4 |
+| Mindösszesen | 18-29        | 0.72 (0.20 - 1.83)        |                    37.6 |
+| Mindösszesen | 30-39        | 1.19 (0.44 - 2.59)        |                    96.1 |
+| Mindösszesen | 40-49        | 0.41 (0.05 - 1.48)        |                   320.8 |
+| Mindösszesen | 50-59        | 0.00 (0.00 - 0.56)        |                   789.2 |
+| Mindösszesen | 60-69        | 0.91 (0.29 - 2.12)        |                  1982.6 |
+| Mindösszesen | 70-          | 0.97 (0.26 - 2.47)        |                  6451.2 |
+| Férfi        | Mindösszesen | 2.21 (1.14 - 3.86)        |                  4958.5 |
+| Férfi        | 12-17        | 0.00 (0.00 - 0.96)        |                     0.5 |
+| Férfi        | 18-29        | 0.35 (0.04 - 1.26)        |                    22.2 |
+| Férfi        | 30-39        | 0.57 (0.12 - 1.67)        |                    59.5 |
+| Férfi        | 40-49        | 0.40 (0.05 - 1.46)        |                   220.0 |
+| Férfi        | 50-59        | 0.00 (0.00 - 0.54)        |                   527.0 |
+| Férfi        | 60-69        | 0.51 (0.10 - 1.48)        |                  1239.2 |
+| Férfi        | 70-          | 0.43 (0.05 - 1.57)        |                  2890.3 |
+| Nő           | Mindösszesen | 1.84 (0.84 - 3.49)        |                  4720.3 |
+| Nő           | 12-17        | 0.00 (0.00 - 0.96)        |                     0.9 |
+| Nő           | 18-29        | 0.36 (0.04 - 1.31)        |                    15.4 |
+| Nő           | 30-39        | 0.61 (0.13 - 1.79)        |                    36.6 |
+| Nő           | 40-49        | 0.00 (0.00 - 0.76)        |                   100.8 |
+| Nő           | 50-59        | 0.00 (0.00 - 0.57)        |                   262.2 |
+| Nő           | 60-69        | 0.41 (0.05 - 1.47)        |                   743.4 |
+| Nő           | 70-          | 0.55 (0.07 - 1.99)        |                  3560.9 |
 
 Egyfelől visszaköszön, amit korábban is láttunk: ha minden 12 év
-felettit beoltottunk volna, akkor – a koreai adatok alapján – kb. 4
-halálozás lett volna az országban szívizomgyulladás miatt. A járvány
-miatt meg meghalt 40 ezer…
+felettit beoltottunk volna, akkor számításaink szerint kb. 4 halálozás
+lett volna az országban szívizomgyulladás miatt. A járvány miatt meg
+meghalt 40 ezer… (És a létező legrosszabb számítás szerint is 10 ezer az
+oltás haszna.)
 
 Viszont! Ha megnézzük az egyes csoportokat (a statisztikusok úgy szokták
 mondani: rétegeket), akkor azt látjuk, hogy ha csak egyetlen egy is, de
 egy van, ahol mégis cinkes a helyzet. És ez az érdekes: *annak ellenére
 is*, hogy összességében meg nagyon egyértelmű a mérleg! De mégis, a 12
 és 17 év közötti fiúknál, bár a mérleg a legvalószínűbb számítás szerint
-még itt is az oltások felé billen, de az abszolút különbség már elég
+még itt is az oltások felé billen, de az abszolút különbség már nagyon
 kicsi. A léptékek itt már hasonlóak, legextrémebb számításban akár össze
-is érnek, így a kockázat/haszon-mérleg kérdésessége a COVID-oltások
-kapcsán a fiatalabb korosztályokban jogosan felmerülő, vizsgálandó
-kérdés. (Ez igaz lehet a 12 év alatti korosztályra, bár ott még kevesebb
-információnk van.) Statisztikai értelemben véve épp az a probléma az
-ilyen rétegekben, hogy az oltás kockázata is nagyon kicsi és az oltás
-haszna is nagyon kicsi, és azt a legnehezebb empirikusan, egy véges
-méretű minta alapján megmondani, hogy két nagyon kicsi számból melyik a
-kisebb. (Természetesen ne feledjük, hogy abban is az oltás ellen
-csalunk, hogy haszon alatt most *csak* a halál megelőzését tekintjük,
-noha pont ebben a korosztályban mondjuk a sokszervi gyulladásos
-szindróma, a PIMS/MIS-C egyáltalán [nem
+is érnek (az előny, bár nagyobb mint a kockázat, de a
+konfidenciaintervallumában benne van), így a kockázat/haszon-mérleg
+kérdésessége a COVID-oltások kapcsán a fiatalabb korosztályokban jogosan
+felmerülő, vizsgálandó kérdés. (Ez igaz lehet a 12 év alatti
+korosztályra, bár ott még kevesebb információnk van.) Statisztikai
+értelemben véve épp az a probléma az ilyen rétegekben, hogy az oltás
+kockázata is nagyon kicsi és az oltás haszna is nagyon kicsi, és azt a
+legnehezebb empirikusan, egy véges méretű minta alapján megmondani, hogy
+két nagyon kicsi számból melyik a kisebb. (Természetesen ne feledjük,
+hogy abban is az oltás ellen csalunk, hogy haszon alatt most *csak* a
+halál megelőzését tekintjük, noha pont ebben a korosztályban mondjuk a
+sokszervi gyulladásos szindróma, a PIMS/MIS-C egyáltalán [nem
 elhanyagolható](https://akjournals.com/view/journals/650/162/17/article-p652.xml).)
 
 Levonhatjuk tehát a második, nagyon fontos tanulságot: az, hogy
@@ -592,24 +636,25 @@ fakadóan elképzelhető, hogy az oltásra vonatkozó ajánlás is más kell
 legyen – a fentiekben, az életkori és nemi lebontással, lényegében pont
 egy ilyen vizsgálatot kíséreltünk meg!
 
-Maradjunk még egy pillanatra az utolsó oszlopoknál, mert ehhez is
-kapcsolódik még egy fontos megállapítás. Ezek az oszlopok azt kívánják
+Maradjunk még egy pillanatra a járvány miatti halálozásnál, mert ehhez
+is kapcsolódik még egy fontos megállapítás. Ezek a számok azt kívánják
 illusztrálni, hogy mekkora a járvány jelentette kockázat (és ebből
 fakadóan az oltás haszna). Azt a táblázat is mutatja, hogy ez nem
 állandó életkor és nem szerint; amit azonban nem mutat a táblázat, hogy
 függhet más, további jellemzőktől is, például a társbetegségektől. (Ezt
 a problémát enyhíti, ha ezek a jellemzők összefüggnek az életkorral,
-ahogy például a társbetegségek erősen – ez esetben az életkor
-valamennyire ezek hatását is tükrözi.) Van azonban még egy fontos
-jellemzője a haszonnak: hogy nem feltétlenül állandó időben sem! Egy
-járvány lehet épp csendesebb, vagy tombolhat, ami rámutat még egy
-dologra, legyen ez a harmadik tanulság: a kockázat/haszon-mérleg nem egy
-statikus, kőbe vésett dolog, hanem dinamikus, azaz időben változik,
-változhat. És ennek megfelelően folyamatosan felül kell vizsgálni:
-elképzelhető, hogy pontosan ugyanazon mellékhatás-kockázat (hiszen az
-nem függ a járvány intenzitásától) ide vagy oda dőlő mérleget jelent, a
-járvány súlyosságától függően – ezt is figyelembe kell venni a
-kockázat/haszon mérlegelésnél, nem csak a különböző rétegeket.
+ahogy például a társbetegségek erősen, mivel idősebb életkorban
+általában gyakoribbak – ez esetben az életkor valamennyire ezek hatását
+is tükrözi.) Van azonban még egy fontos jellemzője a haszonnak: hogy nem
+feltétlenül állandó időben sem! Egy járvány lehet épp csendesebb, vagy
+tombolhat, ami rámutat még egy dologra, legyen ez a harmadik tanulság: a
+kockázat/haszon-mérleg nem egy statikus, kőbe vésett dolog, hanem
+dinamikus, azaz időben változik, változhat. És ennek megfelelően
+folyamatosan felül kell vizsgálni: elképzelhető, hogy pontosan ugyanazon
+mellékhatás-kockázat (hiszen az nem függ a járvány intenzitásától) ide
+vagy oda dőlő mérleget jelent, a járvány súlyosságától függően – ezt is
+figyelembe kell venni a kockázat/haszon mérlegelésnél, nem csak a
+különböző rétegeket.
 
 Bár a fenti számítás végig így dolgozott, de rögzítsük külön is: a
 kockázat/haszon-mérleg szempontjából a hatások *abszolút* nagysága a
@@ -700,11 +745,24 @@ halálozása, ha nem kaptak volna oltást, *még kisebb* lett volna! És bár
 a konkrét magyar adatokban nem ezt láttuk, de fordítva is elképzelhető:
 hogy az oltottak halálozása nagyobb, de az oltás mégis jó – ha nélküle
 *még nagyobb* lett *volna* a halálozás. Ez lényegében a korábban vázolt
-probléma, hogy a „mi lett volna, ha” forgatókönyvet nem ismerjük. Erre
-megoldás, ha randomizált kísérletet végzünk, azaz a vizsgálati alanyok
-pénzfeldobás szerint kapnak oltást vagy placebot, majd az így képezett
-csoportokat hasonlítjuk össze: ez pont azért lesz jó, mert garantálja,
-hogy a csoportok között bizonyosan ne legyen semmilyen más
+probléma, hogy a „mi lett volna, ha” forgatókönyvet nem ismerjük. (Itt
+tulajdonképpen a háttérráta kivonásáról, illetve ki nem vonásáról van
+szó. Ha jobban meggondoljuk, akkor a háttérráta az maga a „mi lett
+volna, ha” forgatókönyv: hányan kaptak volna halálos szívizomgyulladást
+a beoltott populációból akkor is, ha nem kaptak volna oltást. Ezt kell
+kivonni. Szívizomgyulladásnál még úgy-ahogy, arra hivatkozva, hogy az
+oltások kárára tévedünk, megtehettük, hogy nem vonjuk ki – ahogy most el
+is jártunk. Vegyük észre, hogy ezzel azt mondtuk, hogy oltás híján az
+emberek soha nem kapnak halálos szívizomgyulladást. Ez természetesen nem
+igaz, de erre vonatkozik, hogy a „legrosszabb eset” jeligére talán még
+belefér közelítésként. Az azonban még nagyjábóli közelítésként sem
+értelmes, hogy azt mondjuk, hogy oltás híján az emberek soha nem halnak
+meg…)
+
+Erre megoldás, ha randomizált kísérletet végzünk, azaz a vizsgálati
+alanyok pénzfeldobás szerint kapnak oltást vagy placebot, majd az így
+képezett csoportokat hasonlítjuk össze: ez pont azért lesz jó, mert
+garantálja, hogy a csoportok között bizonyosan ne legyen semmilyen más
 szisztematikus eltérés, csak az oltás ténye. A gyógyszerek
 törzskönyvezésekor ma már általában ilyen vizsgálatokat végeznek, a
 COVID-oltásoknál is ezt tették, de sajnos e vizsgálatoknak is [megvannak
