@@ -284,32 +284,32 @@ előfordulását életkoronként és nemenként lebontva is! (Ennek részleteit
 az [1. függelék](#a-koreai-vizsgálat-halálos-kimenetelű-esetei)
 tartalmazza.) Íme:
 
-| Nem          | Életkor      | Oltottak száma \[M fő\] | Halálos szívizomgyulladás \[fő\] | Halálos szívizomgyulladás \[fő/M oltott\] |
-|:-------------|:-------------|------------------------:|---------------------------------:|:------------------------------------------|
-| Mindösszesen | Mindösszesen |                    44.3 |                               21 | 0.47 (0.29 - 0.73)                        |
-| Mindösszesen | 12-17        |                     2.1 |                                0 | 0.00 (0.00 - 1.78)                        |
-| Mindösszesen | 18-29        |                     7.4 |                                4 | 0.54 (0.15 - 1.38)                        |
-| Mindösszesen | 30-39        |                     6.3 |                                6 | 0.95 (0.35 - 2.07)                        |
-| Mindösszesen | 40-49        |                     7.7 |                                2 | 0.26 (0.03 - 0.94)                        |
-| Mindösszesen | 50-59        |                     8.4 |                                0 | 0.00 (0.00 - 0.44)                        |
-| Mindösszesen | 60-69        |                     6.9 |                                5 | 0.72 (0.23 - 1.69)                        |
-| Mindösszesen | 70-          |                     5.5 |                                4 | 0.73 (0.20 - 1.87)                        |
-| Férfi        | Mindösszesen |                    22.2 |                               12 | 0.54 (0.28 - 0.95)                        |
-| Férfi        | 12-17        |                     1.2 |                                0 | 0.00 (0.00 - 3.15)                        |
-| Férfi        | 18-29        |                     3.9 |                                2 | 0.51 (0.06 - 1.84)                        |
-| Férfi        | 30-39        |                     3.4 |                                3 | 0.89 (0.18 - 2.59)                        |
-| Férfi        | 40-49        |                     4.0 |                                2 | 0.51 (0.06 - 1.83)                        |
-| Férfi        | 50-59        |                     4.2 |                                0 | 0.00 (0.00 - 0.87)                        |
-| Férfi        | 60-69        |                     3.3 |                                3 | 0.91 (0.19 - 2.66)                        |
-| Férfi        | 70-          |                     2.2 |                                2 | 0.91 (0.11 - 3.30)                        |
-| Nő           | Mindösszesen |                    22.1 |                                9 | 0.41 (0.19 - 0.77)                        |
-| Nő           | 12-17        |                     1.1 |                                0 | 0.00 (0.00 - 3.34)                        |
-| Nő           | 18-29        |                     3.5 |                                2 | 0.56 (0.07 - 2.04)                        |
-| Nő           | 30-39        |                     3.0 |                                3 | 1.01 (0.21 - 2.94)                        |
-| Nő           | 40-49        |                     3.8 |                                0 | 0.00 (0.00 - 0.97)                        |
-| Nő           | 50-59        |                     4.2 |                                0 | 0.00 (0.00 - 0.88)                        |
-| Nő           | 60-69        |                     3.4 |                                2 | 0.58 (0.07 - 2.11)                        |
-| Nő           | 70-          |                     3.1 |                                2 | 0.65 (0.08 - 2.34)                        |
+| Nem | Életkor | Oltottak száma \[M fő\] | Halálos szívizomgyulladás \[fő\] | Halálos szívizomgyulladás \[fő/M oltott\] |
+|:---|:---|---:|---:|:---|
+| Mindösszesen | Mindösszesen | 44.3 | 21 | 0.47 (0.29 - 0.73) |
+| Mindösszesen | 12-17 | 2.1 | 0 | 0.00 (0.00 - 1.78) |
+| Mindösszesen | 18-29 | 7.4 | 4 | 0.54 (0.15 - 1.38) |
+| Mindösszesen | 30-39 | 6.3 | 6 | 0.95 (0.35 - 2.07) |
+| Mindösszesen | 40-49 | 7.7 | 2 | 0.26 (0.03 - 0.94) |
+| Mindösszesen | 50-59 | 8.4 | 0 | 0.00 (0.00 - 0.44) |
+| Mindösszesen | 60-69 | 6.9 | 5 | 0.72 (0.23 - 1.69) |
+| Mindösszesen | 70- | 5.5 | 4 | 0.73 (0.20 - 1.87) |
+| Férfi | Mindösszesen | 22.2 | 12 | 0.54 (0.28 - 0.95) |
+| Férfi | 12-17 | 1.2 | 0 | 0.00 (0.00 - 3.15) |
+| Férfi | 18-29 | 3.9 | 2 | 0.51 (0.06 - 1.84) |
+| Férfi | 30-39 | 3.4 | 3 | 0.89 (0.18 - 2.59) |
+| Férfi | 40-49 | 4.0 | 2 | 0.51 (0.06 - 1.83) |
+| Férfi | 50-59 | 4.2 | 0 | 0.00 (0.00 - 0.87) |
+| Férfi | 60-69 | 3.3 | 3 | 0.91 (0.19 - 2.66) |
+| Férfi | 70- | 2.2 | 2 | 0.91 (0.11 - 3.30) |
+| Nő | Mindösszesen | 22.1 | 9 | 0.41 (0.19 - 0.77) |
+| Nő | 12-17 | 1.1 | 0 | 0.00 (0.00 - 3.34) |
+| Nő | 18-29 | 3.5 | 2 | 0.56 (0.07 - 2.04) |
+| Nő | 30-39 | 3.0 | 3 | 1.01 (0.21 - 2.94) |
+| Nő | 40-49 | 3.8 | 0 | 0.00 (0.00 - 0.97) |
+| Nő | 50-59 | 4.2 | 0 | 0.00 (0.00 - 0.88) |
+| Nő | 60-69 | 3.4 | 2 | 0.58 (0.07 - 2.11) |
+| Nő | 70- | 3.1 | 2 | 0.65 (0.08 - 2.34) |
 
 E ponton meg kell beszélni még egy kérdést. Ez minden orvosi
 vizsgálatnál felmerül, de más esetekben talán a szőnyeg alá lehet
@@ -363,32 +363,32 @@ részleteit). Mindenesetre az eredmények úgy értendőek, hogy a koreai –
 szerencsére tehát reális, és a magyartól nem nagyon eltérő –
 „oltásprofilt” alkalmazva itthon is:
 
-| Nem          | Életkor      | Halálos szívizomgyulladás \[fő/M oltott\] | Magyar lakosok száma \[M fő\] | Halálos szívizomgyulladások várható száma teljes átoltottság esetén \[fő\] |
-|:-------------|:-------------|:------------------------------------------|------------------------------:|:---------------------------------------------------------------------------|
-| Mindösszesen | Mindösszesen | 0.47 (0.29 - 0.73)                        |                          8.59 | 4.08 (2.52 - 6.23)                                                         |
-| Mindösszesen | 12-17        | 0.00 (0.00 - 1.78)                        |                          0.59 | 0.00 (0.00 - 1.05)                                                         |
-| Mindösszesen | 18-29        | 0.54 (0.15 - 1.38)                        |                          1.33 | 0.72 (0.20 - 1.83)                                                         |
-| Mindösszesen | 30-39        | 0.95 (0.35 - 2.07)                        |                          1.25 | 1.19 (0.44 - 2.59)                                                         |
-| Mindösszesen | 40-49        | 0.26 (0.03 - 0.94)                        |                          1.58 | 0.41 (0.05 - 1.48)                                                         |
-| Mindösszesen | 50-59        | 0.00 (0.00 - 0.44)                        |                          1.26 | 0.00 (0.00 - 0.56)                                                         |
-| Mindösszesen | 60-69        | 0.72 (0.23 - 1.69)                        |                          1.26 | 0.91 (0.29 - 2.12)                                                         |
-| Mindösszesen | 70-          | 0.73 (0.20 - 1.87)                        |                          1.32 | 0.97 (0.26 - 2.47)                                                         |
-| Férfi        | Mindösszesen | 0.54 (0.28 - 0.95)                        |                          4.08 | 2.21 (1.14 - 3.86)                                                         |
-| Férfi        | 12-17        | 0.00 (0.00 - 3.15)                        |                          0.30 | 0.00 (0.00 - 0.96)                                                         |
-| Férfi        | 18-29        | 0.51 (0.06 - 1.84)                        |                          0.68 | 0.35 (0.04 - 1.26)                                                         |
-| Férfi        | 30-39        | 0.89 (0.18 - 2.59)                        |                          0.64 | 0.57 (0.12 - 1.67)                                                         |
-| Férfi        | 40-49        | 0.51 (0.06 - 1.83)                        |                          0.80 | 0.40 (0.05 - 1.46)                                                         |
-| Férfi        | 50-59        | 0.00 (0.00 - 0.87)                        |                          0.62 | 0.00 (0.00 - 0.54)                                                         |
-| Férfi        | 60-69        | 0.91 (0.19 - 2.66)                        |                          0.56 | 0.51 (0.10 - 1.48)                                                         |
-| Férfi        | 70-          | 0.91 (0.11 - 3.30)                        |                          0.48 | 0.43 (0.05 - 1.57)                                                         |
-| Nő           | Mindösszesen | 0.41 (0.19 - 0.77)                        |                          4.51 | 1.84 (0.84 - 3.49)                                                         |
-| Nő           | 12-17        | 0.00 (0.00 - 3.34)                        |                          0.29 | 0.00 (0.00 - 0.96)                                                         |
-| Nő           | 18-29        | 0.56 (0.07 - 2.04)                        |                          0.64 | 0.36 (0.04 - 1.31)                                                         |
-| Nő           | 30-39        | 1.01 (0.21 - 2.94)                        |                          0.61 | 0.61 (0.13 - 1.79)                                                         |
-| Nő           | 40-49        | 0.00 (0.00 - 0.97)                        |                          0.78 | 0.00 (0.00 - 0.76)                                                         |
-| Nő           | 50-59        | 0.00 (0.00 - 0.88)                        |                          0.64 | 0.00 (0.00 - 0.57)                                                         |
-| Nő           | 60-69        | 0.58 (0.07 - 2.11)                        |                          0.70 | 0.41 (0.05 - 1.47)                                                         |
-| Nő           | 70-          | 0.65 (0.08 - 2.34)                        |                          0.85 | 0.55 (0.07 - 1.99)                                                         |
+| Nem | Életkor | Halálos szívizomgyulladás \[fő/M oltott\] | Magyar lakosok száma \[M fő\] | Halálos szívizomgyulladások várható száma teljes átoltottság esetén \[fő\] |
+|:---|:---|:---|---:|:---|
+| Mindösszesen | Mindösszesen | 0.47 (0.29 - 0.73) | 8.59 | 4.08 (2.52 - 6.23) |
+| Mindösszesen | 12-17 | 0.00 (0.00 - 1.78) | 0.59 | 0.00 (0.00 - 1.05) |
+| Mindösszesen | 18-29 | 0.54 (0.15 - 1.38) | 1.33 | 0.72 (0.20 - 1.83) |
+| Mindösszesen | 30-39 | 0.95 (0.35 - 2.07) | 1.25 | 1.19 (0.44 - 2.59) |
+| Mindösszesen | 40-49 | 0.26 (0.03 - 0.94) | 1.58 | 0.41 (0.05 - 1.48) |
+| Mindösszesen | 50-59 | 0.00 (0.00 - 0.44) | 1.26 | 0.00 (0.00 - 0.56) |
+| Mindösszesen | 60-69 | 0.72 (0.23 - 1.69) | 1.26 | 0.91 (0.29 - 2.12) |
+| Mindösszesen | 70- | 0.73 (0.20 - 1.87) | 1.32 | 0.97 (0.26 - 2.47) |
+| Férfi | Mindösszesen | 0.54 (0.28 - 0.95) | 4.08 | 2.21 (1.14 - 3.86) |
+| Férfi | 12-17 | 0.00 (0.00 - 3.15) | 0.30 | 0.00 (0.00 - 0.96) |
+| Férfi | 18-29 | 0.51 (0.06 - 1.84) | 0.68 | 0.35 (0.04 - 1.26) |
+| Férfi | 30-39 | 0.89 (0.18 - 2.59) | 0.64 | 0.57 (0.12 - 1.67) |
+| Férfi | 40-49 | 0.51 (0.06 - 1.83) | 0.80 | 0.40 (0.05 - 1.46) |
+| Férfi | 50-59 | 0.00 (0.00 - 0.87) | 0.62 | 0.00 (0.00 - 0.54) |
+| Férfi | 60-69 | 0.91 (0.19 - 2.66) | 0.56 | 0.51 (0.10 - 1.48) |
+| Férfi | 70- | 0.91 (0.11 - 3.30) | 0.48 | 0.43 (0.05 - 1.57) |
+| Nő | Mindösszesen | 0.41 (0.19 - 0.77) | 4.51 | 1.84 (0.84 - 3.49) |
+| Nő | 12-17 | 0.00 (0.00 - 3.34) | 0.29 | 0.00 (0.00 - 0.96) |
+| Nő | 18-29 | 0.56 (0.07 - 2.04) | 0.64 | 0.36 (0.04 - 1.31) |
+| Nő | 30-39 | 1.01 (0.21 - 2.94) | 0.61 | 0.61 (0.13 - 1.79) |
+| Nő | 40-49 | 0.00 (0.00 - 0.97) | 0.78 | 0.00 (0.00 - 0.76) |
+| Nő | 50-59 | 0.00 (0.00 - 0.88) | 0.64 | 0.00 (0.00 - 0.57) |
+| Nő | 60-69 | 0.58 (0.07 - 2.11) | 0.70 | 0.41 (0.05 - 1.47) |
+| Nő | 70- | 0.65 (0.08 - 2.34) | 0.85 | 0.55 (0.07 - 1.99) |
 
 Fontos kiemelni, hogy ezek az adatok arra vonatkoznak, ha *mindenkit*
 beoltunk.
@@ -441,7 +441,7 @@ helyzetre nem feltétlenül alkalmazható módosítás nélkül. Egyébként az
 oltás okozta szívizomgyulladásnál is jobb lett volna magyar adatot
 használni, a koreait is csak kényszerből vettem elő, mert magyar adat
 semmilyen nem volt – ami nagy baj, de sajnos [nem teljesen
-meglepő](https://github.com/tamas-ferenci/GondolatokAJarvanyugyiAdatokKozleserol);
+meglepő](https://github.com/ferenci-tamas/GondolatokAJarvanyugyiAdatokKozleserol);
 szerencsére pont ebben, tehát, hogy az oltás mennyire okoz
 szívizomgyulladást, nem nagyon várható, hogy hatalmas különbségek
 legyenek az országok között (persze, például genetikai okokból, nem is
@@ -467,7 +467,7 @@ Egyetlen dologra kell vigyázni. A halottak részletes életkori és nemi
 adatai a napi gyorsjelentésben érhetőek el, viszont az joggal vethető
 fel, hogy ők meg nem biztos, hogy tényleg mind a járvány áldozatai (most
 félretéve [azt a
-kérdést](https://github.com/tamas-ferenci/ExcessMortEUR), hogy
+kérdést](https://github.com/ferenci-tamas/ExcessMortEUR), hogy
 egyáltalán hogyan definiálható pontosan, hogy ki a járvány áldozata),
 hiszen őket nem a rendes halottvizsgálati eljárás szerint sorolták be
 halálokilag. Szerencsére 2020-2022-re vonatkozóan már [közölte a
@@ -478,7 +478,7 @@ nincsen, de kérésre ezeket is leválogatja a KSH. Én ezt megtettem
 így fontos hangsúlyozni, hogy ezek már a rendes haláloki besorolással
 kapott eredmények, így mentesek attól a problémától, hogy a napi
 gyorsjelentés felülbecsli a halálozások számát. (Egyébként valamennyivel
-[tényleg](https://github.com/tamas-ferenci/ExcessMortEUR?tab=readme-ov-file#%C3%B6sszevet%C3%A9s-a-jelentett-hal%C3%A1loz%C3%A1ssal),
+[tényleg](https://github.com/ferenci-tamas/ExcessMortEUR?tab=readme-ov-file#%C3%B6sszevet%C3%A9s-a-jelentett-hal%C3%A1loz%C3%A1ssal),
 a különbség kb. 17% – tehát a jelenség létezik, de azért az sem igaz,
 hogy itt többszörös eltérésekről lenne szó.)
 
@@ -663,7 +663,7 @@ fontos (mind a kockázat, mind a haszon oldalán). Hiszen ezeket tudjuk
 külön, mert gyakran adnak meg, különösen a kockázatnál, relatív
 mutatókat is: „50%-kal emeli az oltás a kockázatot”. E mutatóknak is van
 értelmük ([jól
-átvihetőek](https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/v%C3%A9gpont-%C3%A9s-lem%C3%A9r%C3%A9se.html#mutat%C3%B3k-stabilit%C3%A1sa)
+átvihetőek](https://ferenci-tamas.github.io/orvosi-megismeres-modszertan/vegpont.html#mutat%C3%B3k-stabilit%C3%A1sa)
 más csoportokra), de az oltás megítéléshez abszolút mutatókra van
 szükségünk. Gondoljunk ugyanis bele, ha valami (adott idő alatt) 100
 alanyból 2-szer fordul elő és az oltás ezt 3-ra emeli, az is 50%-os
@@ -738,7 +738,7 @@ kimenetben (a halálozásban), nem fogjuk tudni, hogy az mi miatt van: az
 oltottság miatt, az oltottsággal együtt járó egyéb eltérések miatt, vagy
 ezek valamilyen keveréke miatt? Ezt a jelenséget szokták magyarban is
 gyakran használt angol szóval
-[confounding-nak](https://tamas-ferenci.github.io/FerenciTamas_AzOrvosiMegismeresModszertanaEsAzOrvosiKutatasokKritikusErtekelese/)
+[confounding-nak](https://ferenci-tamas.github.io/orvosi-megismeres-modszertan/)
 nevezni. Elvileg akár még az is lehet, hogy az az oltottak halálozása
 ugyan kisebb, de ettől még az oltás veszélyes – ha az oltottak
 halálozása, ha nem kaptak volna oltást, *még kisebb* lett volna! És bár
@@ -1017,7 +1017,7 @@ lehet a valódi érték, noha ez a természetes kérdés, hanem azt, hogy
 mennyi lehet a valódi érték, hogy annak fennállása esetén könnyen
 kaphassuk azt, amit ténylegesen kaptunk is. Ez ugyan nagyon
 nyakatekertnek tűnik, de [megvan az
-oka](https://tamas-ferenci.github.io/FerenciTamas_AValoszinusegszamitasEsAStatisztikaAlapvonalai/a-k%C3%B6vetkeztet-statisztika-alapjai.html#a-bayes-i-probl%C3%A9ma),
+oka](https://ferenci-tamas.github.io/valoszinusegszamitas-statisztika/kovetkezteto-statisztika.html#a-bayes-i-probl%C3%A9ma),
 hogy miért ezt használjuk; a természetes kérdésre is lehetne válaszolni,
 de az további információkat igényelne.)
 
@@ -1079,12 +1079,12 @@ Dél-Korea 12 év fölötti lakosainak száma 2021-ben 46 908 096 fő, ebből
 vizsgált cikk adatai alapján. A beadott oltások lebontása típus és dózis
 szerint (zárójelben az oltottak számához viszonyított megoszlás):
 
-| Oltás          | 1\. dózis           | 2\. dózis            | 3\. dózis            |
-|----------------|---------------------|----------------------|----------------------|
-| BNT162b2       | 24 828 152 (56,1%)  | 23 369 725 (52,8%)   | 11 458 290 (25,9%)   |
-| mRNA-1273      | 6 781 796 (15,3%)   | 6 621 577 (15%)      | 6 930 450 (15,7%)    |
-| ChAdOx1        | 11 156 646 (25,2%)  | 11 093 528 (25,1%)   | 0 (0%)               |
-| Ad26.COV2.S    | 1 510 110 (3,4%)    | 0 (0%)               | 23 081 (0,1%)        |
+| Oltás | 1\. dózis | 2\. dózis | 3\. dózis |
+|----|----|----|----|
+| BNT162b2 | 24 828 152 (56,1%) | 23 369 725 (52,8%) | 11 458 290 (25,9%) |
+| mRNA-1273 | 6 781 796 (15,3%) | 6 621 577 (15%) | 6 930 450 (15,7%) |
+| ChAdOx1 | 11 156 646 (25,2%) | 11 093 528 (25,1%) | 0 (0%) |
+| Ad26.COV2.S | 1 510 110 (3,4%) | 0 (0%) | 23 081 (0,1%) |
 | *Mindösszesen* | *44 276 704 (100%)* | *41 084 830 (92,8%)* | *18 411 821 (41,6%)* |
 
 Magyarország 12 év fölötti lakosainak száma 2021-ben 8 594 838 fő, ebből
