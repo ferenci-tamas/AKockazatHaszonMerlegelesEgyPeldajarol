@@ -992,7 +992,7 @@ $3/1000$ lett az eredmény. Így az egész levezetésünk egy nagyon könnyen
 [szabályhoz](https://www.tandfonline.com/doi/abs/10.1080/00031305.1997.10473947)
 vezet: ha $n$ véletlen megfigyelés során sem tapasztaltunk egy
 jelenséget, akkor annak előfordulási gyakorisága nagy (95%-os)
-megbízhatósággal legfeljebb $3/n$!
+megbízhatósággal legfeljebb $3/n$.
 
 Valójában amúgy itt nem egy darab felső korlátot kaptunk, hanem egy
 egész intervallumot; ez csak azért nem tűnik fel, mert ha nem volt zöld
