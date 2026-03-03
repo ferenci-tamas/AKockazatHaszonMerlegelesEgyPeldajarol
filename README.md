@@ -883,7 +883,7 @@ vállalunk; ez nem egy adatokból kiolvasható paraméter, mert minket – a
 hibavállalásunkat – jellemez.
 
 Még ha a fentieket lehet is „érezni”, de van itt még egy nagyon fontos
-lehetőség: mindez számszerűsíthető is! Ehhez azonban már be kell némi
+lehetőség: mindez *számszerűsíthető* is! Ehhez azonban már be kell némi
 matematikát is hozni.
 
 Mennyi annak a valószínűsége, hogy 10 véletlenszerűen kiválasztott ember
@@ -899,15 +899,17 @@ külön odafigyelni a 100-zal osztásra.) De mennyi a valószínűsége annak,
 hogy az első kettő *egyike sem* zöld szemű? Ez csak akkor fordulhat elő,
 ha az első nem az, ezért szűkítsük le magunkat erre a 99%-ra, majd azt
 kérdezzük, hogy ezen 99%-on *belül* mekkora a valószínűsége, hogy a
-második nem zöld szemű? (Ami ugye azt jelenti, hogy egyik sem az.)
+második nem zöld szemű? (Mert ugye ez jelenti azt, hogy egyik sem az.)
 Természetesen *ugyanúgy* 99%, hiszen ha az embereket véletlenszerűen
 választottuk, akkor az, hogy az elsőnek nem zöld volt a szeme, az nem
 befolyásolja azt, hogy a második mekkora valószínűséggel nem zöld szemű
-– az marad ugyanúgy 99%, azaz 0,99. A 0,99-ed résznek a 0,99-ed része az
-magyarul $0{,}99 \cdot 0{,}99 = 0{,}9801$, azaz 98,01% – ennyi a
-valószínűsége annak, hogy kettő egyike sem zöld szemű, *ha* a valóságban
-minden századik ember az. Ugyanígy továbbmenve annak a valószínűsége,
-hogy az első három egyike sem zöld szemű
+– az marad ugyanúgy 99%, azaz 0,99. (Ezt hívják szép szóval
+függetlenségnek: a második ember szemszíne független az elsőétől.) A
+0,99-ed résznek a 0,99-ed része az magyarul
+$0{,}99 \cdot 0{,}99 = 0{,}9801$, azaz 98,01% – ennyi a valószínűsége
+annak, hogy kettő egyike sem zöld szemű, *ha* a valóságban minden
+századik ember az. Ugyanígy továbbmenve annak a valószínűsége, hogy az
+első három egyike sem zöld szemű
 $0{,}99 \cdot 0{,}99 \cdot 0{,}99 = 0{,}9703$, azaz 97,03%, és így
 tovább, annak valószínűsége, hogy mind a 10 nem zöld szemű:
 $0{,}99^{10} = 0{,}9044$, azaz 90,44%.
